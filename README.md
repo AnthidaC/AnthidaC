@@ -10,7 +10,7 @@
 
 ### Medical Record System-SE_KPS_68_3 (Backend)
 - Developed backend API for managing medical records
-- Tech: Node.js, PostgreSQL
+- Tech: Next.js, PostgreSQL
 - Role: Backend Developer
 
 ### Game Development Project
