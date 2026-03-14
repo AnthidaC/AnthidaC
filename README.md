@@ -61,12 +61,6 @@
 
 ---
 
-# 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnthidaC&theme=tokyo-night)
-
----
-
 # 🧠 Currently Learning
 
 - System Design
