@@ -6,19 +6,27 @@
 
 ---
 
-# 🚀 Projects
+## 🚀 Projects
 
 ### Intelligent Dental Clinic Management System (Backend)
-- Developed backend API for managing Dental Clinic
-- Tech: Next.js, PostgreSQL
+
+Backend system for managing dental clinic records.
+
 - Role: Backend Developer
-- Repository: https://github.com/Carmel-1311/SE_KPS_68_3.git
+- Tech: Next.js, PostgreSQL
 
-### Game Development Project
-- Team project with 7 developers
+🔗 Repository  
+https://github.com/Carmel-1311/SE_KPS_68_3.git
+
+
+### 🎮 Joetta (Game Project)
+
+Team game development project with 7 developers.
+
 - Role: Game Programmer & Team Manager
-- Play the game: https://aun-officel.itch.io/joetta
 
+🎮 Play the game  
+https://aun-officel.itch.io/joetta
 ---
 
 # 🛠 Tech Stack
