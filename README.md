@@ -8,15 +8,16 @@
 
 # 🚀 Projects
 
-### Medical Record System-SE_KPS_68_3 (Backend)
+### Intelligent Dental Clinic Management System (Backend)
 - Developed backend API for managing medical records
 - Tech: Next.js, PostgreSQL
 - Role: Backend Developer
+- Repository: https://github.com/Carmel-1311/SE_KPS_68_3.git
 
 ### Game Development Project
 - Team project with 7 developers
 - Role: Game Programmer & Team Manager
-
+- Play the game: https://aun-officel.itch.io/joetta
 
 ---
 
