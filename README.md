@@ -14,7 +14,7 @@ Backend system for managing dental clinic records.
 
 - Role: Backend Developer
 - Tech: Next.js, PostgreSQL
-- 🔗 Repository: https://github.com/Carmel-1311/SE_KPS_68_3
+- 🔗 Team Repository: https://github.com/Carmel-1311/SE_KPS_68_3
 
 
 ### 🎮 Joetta (Game Project)
