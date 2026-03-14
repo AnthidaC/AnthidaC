@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Projects
+# 🚀 Projects
 
 ### Intelligent Dental Clinic Management System (Backend)
 
