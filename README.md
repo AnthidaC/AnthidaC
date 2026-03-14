@@ -9,7 +9,7 @@
 # 🚀 Projects
 
 ### Intelligent Dental Clinic Management System (Backend)
-- Developed backend API for managing medical records
+- Developed backend API for managing Dental Clinic
 - Tech: Next.js, PostgreSQL
 - Role: Backend Developer
 - Repository: https://github.com/Carmel-1311/SE_KPS_68_3.git
