@@ -23,28 +23,30 @@
 # 🛠 Tech Stack
 
 ### Programming
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square)
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square)
+![Dart](https://img.shields.io/badge/Dart-blue?style=flat-square)
+![C++](https://img.shields.io/badge/C++-blue?style=flat-square)
+![C%23](https://img.shields.io/badge/C%23-green?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-grey?style=flat-square)
 
 ### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-green)
-![REST API](https://img.shields.io/badge/API-REST-blue)
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=flat-square)
+![Express](https://img.shields.io/badge/Express-black?style=flat-square)
+![REST API](https://img.shields.io/badge/API-REST-blue?style=flat-square)
+![JWT](https://img.shields.io/badge/Auth-JWT-purple?style=flat-square)
 
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-orange)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-black)
-![Docker](https://img.shields.io/badge/Docker-blue)
-![Linux](https://img.shields.io/badge/Linux-yellow)
-
+![Git](https://img.shields.io/badge/Git-black?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-yellow?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-orange?style=flat-square)
 ---
 
 # 📊 GitHub Stats
