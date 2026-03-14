@@ -10,7 +10,7 @@
 
 ### Intelligent Dental Clinic Management System (Backend)
 
-Backend system for managing dental clinic records.
+System for managing dental clinic records.
 
 - Role: Backend Developer
 - Tech: Next.js, PostgreSQL
