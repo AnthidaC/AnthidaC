@@ -8,7 +8,7 @@
 
 # 🚀 Projects
 
-### Medical Record System (Backend)
+### Medical Record System-SE_KPS_68_3 (Backend)
 - Developed backend API for managing medical records
 - Tech: Node.js, PostgreSQL
 - Role: Backend Developer
@@ -17,9 +17,6 @@
 - Team project with 7 developers
 - Role: Game Programmer & Team Manager
 
-### Vocabulary Randomizer Web App
-- Random vocabulary generator for learning
-- Built for self-practice
 
 ---
 
