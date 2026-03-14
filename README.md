@@ -39,8 +39,8 @@
 ![JWT](https://img.shields.io/badge/Auth-JWT-purple?style=flat-square)
 
 ### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
-![MySQL](https://img.shields.io/badge/MySQL-orange)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-orange?style=flat-square)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square)
