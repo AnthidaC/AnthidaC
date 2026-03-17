@@ -8,7 +8,7 @@
 
 # 🚀 Projects
 
-### Intelligent Dental Clinic Management System (Backend)
+### Intelligent Dental Clinic Management System
 
 System for managing dental clinic.
 
